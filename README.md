@@ -1,6 +1,6 @@
 <div align="center">
 
-# DARN-stack
+# DARN STACK
 Does it get more Chad than this?
 
 >"For when you spend more time on your stack than your work."
